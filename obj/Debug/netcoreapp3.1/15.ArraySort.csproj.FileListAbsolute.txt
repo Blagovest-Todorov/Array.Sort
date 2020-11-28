@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\bin\Debug\netcoreapp3.1\15.ArraySort.exe
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\bin\Debug\netcoreapp3.1\15.ArraySort.deps.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\bin\Debug\netcoreapp3.1\15.ArraySort.runtimeconfig.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\bin\Debug\netcoreapp3.1\15.ArraySort.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\bin\Debug\netcoreapp3.1\15.ArraySort.dll
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\bin\Debug\netcoreapp3.1\15.ArraySort.pdb
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\obj\Debug\netcoreapp3.1\15.ArraySort.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\obj\Debug\netcoreapp3.1\15.ArraySort.AssemblyInfo.cs
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\obj\Debug\netcoreapp3.1\15.ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\obj\Debug\netcoreapp3.1\15.ArraySort.dll
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\obj\Debug\netcoreapp3.1\15.ArraySort.pdb
+C:\Users\Bla\source\repos\MultiDimentionalArrays\15.ArraySort\obj\Debug\netcoreapp3.1\15.ArraySort.genruntimeconfig.cache
