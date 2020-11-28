@@ -6,17 +6,16 @@ namespace _15.ArraySort
     {
         static void Main(string[] args)
         {
-            int[] numbers = { 5, 3 , 100, 450, 21, 1};
-            Array.Sort(numbers); //sort the Arrray in ascending way from smallest to largest number
-            //Array.Sort(numbers);
-            Array.Reverse(numbers); //after the array is sortedf , if we use Array.Reverse() :
-            //the it prints it descendingly
-            //valid  and works  only for one dimensional arrays
 
-            foreach (var item in numbers ) 
+            int[] arr = new int[] { 1, 9, 6, 7, 5, 9 }; //declaring and initializing the array
+            //sort the arra from last to first comparing each element
+            Array.Sort<int>(arr, new Comparison<int>((i1, i2) => i2.CompareTo(i1)));
+
+            foreach (int item in arr) //printing the elements from the reversed array
             {
-                Console.WriteLine(item);
+                Console.Write(item + " ");
             }
+
 
 
         }
